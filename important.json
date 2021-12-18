@@ -1,0 +1,11 @@
+{
+    "main-files": [
+        "./index.js",
+        "./index.html",
+        "./catchMessage.js",
+        "README.txt"
+    ],
+    "ignore": [
+        "./Tema_ O que é ser um universitário_ O pensamento crítico e a pesquisa acadêmica_ o porquê da filosofia na educação. - Bb Collaborate_files/"
+    ]
+}
